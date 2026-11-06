@@ -5292,5 +5292,15 @@
     "color": "#2AC4FF",
     "overlay": false,
     "contributors": "fankes, haijiaoduimian"
+  },
+  "test.test": {
+    "label": {
+      "en": "test",
+      "zh-CN": "test"
+    },
+    "format": "png",
+    "color": "#00C29A",
+    "overlay": false,
+    "contributors": "test"
   }
 }
